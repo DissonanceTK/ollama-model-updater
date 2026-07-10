@@ -1,0 +1,16 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env.local
+
+# OS
+Thumbs.db
+*.log
+
+# Project-specific
+.cache/
+*.bak
