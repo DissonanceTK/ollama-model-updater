@@ -24,7 +24,7 @@ A lightweight zsh script that automatically updates all installed Ollama models 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-model-updater.git
+   git clone https://github.com/DissonanceTK/ollama-model-updater.git
    cd ollama-model-updater
    ```
 
