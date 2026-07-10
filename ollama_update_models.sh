@@ -197,7 +197,7 @@ done <<< "$names_only"
 total=$((updated_count + unchanged_count + failed_count + skipped_count))
 
 echo
-echo "==================== Summary ===================="
+echo "=================================== Summary ==================================="
 printf "Total: %d | %b%s%b %d | %b%s%b %d | %b%s%b %d | %b%s%b %d\n" \
   "$total" \
   "$C_SKP"  "⏭  Skipped:"   "$C_RESET" "$skipped_count" \
